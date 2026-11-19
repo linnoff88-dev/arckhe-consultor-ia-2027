@@ -1,0 +1,166 @@
+[
+ {
+  "chapter": "Abertura",
+  "title": "Construir não vai bastar",
+  "kind": "hook",
+  "labels": [
+   "construir automação e agente",
+   "2027: sozinho não paga as contas",
+   "o cliente tem o mesmo agente",
+   "não é mais uma ferramenta"
+  ],
+  "takeaway": "Construir sozinho não deve sustentar o profissional de IA em 2027.",
+  "source": "https://inema.club",
+  "speech": "Se você trabalha com IA ou com desenvolvimento e vive de construir automação e agente, eu tenho uma notícia. Em 2027, isso sozinho não deve pagar as suas contas como paga hoje. Não porque o trabalho vai acabar. Mas porque o agente vai fazer boa parte dele. E o seu cliente vai ter acesso ao mesmo agente. Então neste vídeo eu quero falar do que eu acho que você precisa aprender agora para continuar faturando. E não é mais uma ferramenta."
+ },
+ {
+  "chapter": "O problema",
+  "title": "Construir virou commodity",
+  "kind": "concept",
+  "labels": [
+   "briefing",
+   "API",
+   "fluxo",
+   "prompt",
+   "construir = commodity",
+   "leilão contra uma assinatura"
+  ],
+  "takeaway": "Quando todo mundo consegue construir, construir vira commodity e é disputado no preço.",
+  "source": "https://inema.club",
+  "speech": "Pense no seu trabalho hoje. Briefing, conectar a API, montar o fluxo, ajustar o prompt, entregar. Grande parte disso o agente já faz. E faz melhor a cada geração de modelos. Quando todo mundo consegue construir, construir vira commodity. E commodity é disputada no preço. Se a sua proposta é “eu construo o seu agente”, você está entrando num leilão contra o preço de uma assinatura."
+ },
+ {
+  "chapter": "O problema",
+  "title": "O que o cliente vai continuar pagando",
+  "kind": "steps",
+  "labels": [
+   "o que fazer",
+   "qual processo primeiro",
+   "o que vale automatizar",
+   "onde está o risco",
+   "está funcionando de verdade?",
+   "quatro papéis"
+  ],
+  "takeaway": "O cliente continua pagando por saber o que fazer, e não por construir.",
+  "source": "https://inema.club",
+  "speech": "Mas tem uma coisa que o cliente não resolve sozinho, mesmo com o melhor agente do mundo. Saber o que fazer. Qual processo mexer primeiro. O que vale automatizar e o que não vale. Onde está o risco. E se o que foi feito está funcionando de verdade. É aí que está o dinheiro de 2027. E eu vejo quatro papéis."
+ },
+ {
+  "chapter": "Quatro papéis",
+  "title": "Papel 1: consultor",
+  "kind": "steps",
+  "labels": [
+   "1. consultor",
+   "mapear o processo",
+   "pessoa, agente, automação",
+   "o que deve deixar de existir",
+   "diagnóstico + plano"
+  ],
+  "takeaway": "Consultor começa pelo processo do cliente, não pela ferramenta.",
+  "source": "https://inema.club",
+  "speech": "O primeiro é o de consultor. Em vez de começar pela ferramenta, você começa pelo processo do cliente. Entra, mapeia, entende o que entra, quem decide, quem executa, onde está o desperdício. E entrega um diagnóstico e um plano: isto fica com a pessoa, isto vai para um agente, isto continua sendo automação tradicional, e isto deveria deixar de existir. Isso é o mais difícil de automatizar, porque exige entender o negócio, não só a tecnologia."
+ },
+ {
+  "chapter": "Quatro papéis",
+  "title": "Papel 2: quem acompanha",
+  "kind": "compare",
+  "labels": [
+   "2. acompanhar",
+   "ajustar contexto e regras",
+   "medir resultado",
+   "parceiro = recorrente"
+  ],
+  "takeaway": "Quem acompanha vira parceiro; construtor tem projeto que acaba.",
+  "source": "https://inema.club",
+  "speech": "O segundo é acompanhar o cliente. Projeto de IA não termina na entrega. O modelo muda, o agente muda, o processo muda. Quem acompanha o cliente mês a mês, ajusta o contexto, revê as regras e mede o resultado vira parceiro. E parceiro tem contrato recorrente. Construtor tem projeto que acaba."
+ },
+ {
+  "chapter": "Quatro papéis",
+  "title": "Papel 3: mentor",
+  "kind": "concept",
+  "labels": [
+   "3. mentor",
+   "ensinar em vez de fazer",
+   "contexto, limites, avaliação",
+   "referência na empresa"
+  ],
+  "takeaway": "O mentor faz o cliente ficar bom com agentes.",
+  "source": "https://inematds.github.io/curso-7pa/",
+  "speech": "O terceiro é o de mentor. O seu cliente vai querer usar agentes ele mesmo. Você pode lutar contra isso, ou pode ensinar. O mentor ensina o gestor e a equipe a trabalhar com agentes: dar contexto, delegar, definir limites, avaliar. Em vez de fazer por ele, você faz ele ficar bom. E quem ensina vira a referência dentro da empresa."
+ },
+ {
+  "chapter": "Quatro papéis",
+  "title": "Papel 4: auditor",
+  "kind": "concept",
+  "labels": [
+   "4. auditor",
+   "autonomia demais?",
+   "dados que não deveria?",
+   "quem aprovou?",
+   "bom ou só parece bom?"
+  ],
+  "takeaway": "Auditar agentes é revisar processo, risco e resultado.",
+  "source": "https://eventos.inema.pro/gestao-ia/",
+  "speech": "E o quarto é um papel que quase ninguém está ocupando ainda: auditor. Quando a empresa tiver dezenas de agentes rodando, alguém precisa olhar. O que esse agente pode fazer? Ele tem autonomia demais? Está usando dados que não deveria? Quem aprovou essa decisão? O resultado está bom, ou só parece bom? Auditar agentes é revisar processo, risco e resultado. E aqui a sua bagagem técnica vira vantagem: você sabe onde o agente costuma errar."
+ },
+ {
+  "chapter": "O que aprender",
+  "title": "O que aprender agora",
+  "kind": "steps",
+  "labels": [
+   "1. processos",
+   "2. gestão de agentes",
+   "3. o negócio do cliente",
+   "4. comunicação",
+   "5. avaliação",
+   "nenhum é ferramenta"
+  ],
+  "takeaway": "Processos, gestão de agentes, negócio, comunicação e avaliação: nenhum é ferramenta.",
+  "source": "https://inematds.github.io/curso-7pa/",
+  "speech": "Então, o que aprender agora? Primeiro: processos. Como mapear, medir e redesenhar um processo. Segundo: gestão de agentes. Objetivo, contexto, ferramentas, autonomia, avaliação e supervisão. Terceiro: o negócio do cliente. Escolha um setor e entenda ele a fundo. Quarto: comunicação. Saber explicar, ensinar e convencer um gestor que não é técnico. E quinto: avaliação. Saber dizer, com critério, se um agente está entregando ou não. Repare que nenhum desses itens é uma ferramenta."
+ },
+ {
+  "chapter": "O que aprender",
+  "title": "A técnica muda de lugar",
+  "kind": "compare",
+  "labels": [
+   "antes: técnica = produto",
+   "agora: técnica = credibilidade",
+   "diagnosticar e orientar",
+   "auditar"
+  ],
+  "takeaway": "A bagagem técnica não perde valor: muda de lugar.",
+  "source": "https://inema.club",
+  "speech": "E não, a sua bagagem técnica não perde o valor. Ela muda de lugar. Antes ela era o produto. Agora ela é o que te dá credibilidade para diagnosticar, orientar e auditar. Você não precisa mais ser o melhor construtor. Precisa ser quem entende o suficiente da técnica para decidir bem e explicar bem."
+ },
+ {
+  "chapter": "Comece esta semana",
+  "title": "Comece esta semana",
+  "kind": "steps",
+  "labels": [
+   "1 cliente ou a sua empresa",
+   "1 processo",
+   "diagnóstico antes de construir",
+   "uma página",
+   "já é produto de consultoria"
+  ],
+  "takeaway": "Um diagnóstico de uma página já é um produto de consultoria.",
+  "source": "https://inematds.github.io/curso-7pa/",
+  "speech": "Como começar esta semana? Pegue um cliente, ou a sua própria empresa. Escolha um processo. Faça o diagnóstico antes de construir qualquer coisa: o que entra, quem decide, onde está o gargalo, o que vai para a pessoa, para o agente, para a automação. Escreva isso numa página. Esse documento já é um produto de consultoria. No INEMA ponto club tem o curso de Gestão de Agentes com os sete princípios, e a área de Gestão de IA no eventos, tudo aberto. Use como base."
+ },
+ {
+  "chapter": "Fechamento",
+  "title": "Fechamento",
+  "kind": "cta",
+  "labels": [
+   "construtor → consultor",
+   "executor → mentor",
+   "entregar → garantir",
+   "clareza e confiança",
+   "inema.club"
+  ],
+  "takeaway": "Em 2027, a diferença está em quem sabe o que fazer com o agente.",
+  "source": "https://inema.club",
+  "speech": "Em 2027, o cliente vai ter o mesmo agente que você. A diferença vai estar em quem sabe o que fazer com ele. Pare de vender construção. Comece a vender clareza, acompanhamento, ensino e confiança. De construtor para consultor. De executor para mentor. E de quem entrega para quem garante que funciona. Esse é o profissional de IA que vai faturar em 2027."
+ }
+]
